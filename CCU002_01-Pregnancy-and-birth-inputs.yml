@@ -1,0 +1,93 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-complication---primary.py
+inputModule3:
+  class: File
+  path: python/pregnant-ccu002_01-pregnancy-and-birth---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-education---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-kidney---primary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-screening---primary.py
+inputModule7:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-associated---primary.py
+inputModule8:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-malignant---primary.py
+inputModule9:
+  class: File
+  path: python/gestational-ccu002_01-pregnancy-and-birth---primary.py
+inputModule10:
+  class: File
+  path: python/secondary-ccu002_01-pregnancy-and-birth---primary.py
+inputModule11:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-history---primary.py
+inputModule12:
+  class: File
+  path: python/epilepsy-ccu002_01-pregnancy-and-birth---primary.py
+inputModule13:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-delivered---primary.py
+inputModule14:
+  class: File
+  path: python/hypertensive-ccu002_01-pregnancy-and-birth---primary.py
+inputModule15:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-asthma---primary.py
+inputModule16:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-confirms---primary.py
+inputModule17:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-human---primary.py
+inputModule18:
+  class: File
+  path: python/monochorionic-ccu002_01-pregnancy-and-birth---primary.py
+inputModule19:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-hypothyroidism---primary.py
+inputModule20:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-anemia---primary.py
+inputModule21:
+  class: File
+  path: python/diamniotic-ccu002_01-pregnancy-and-birth---primary.py
+inputModule22:
+  class: File
+  path: python/neoplastic-ccu002_01-pregnancy-and-birth---primary.py
+inputModule23:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-vaccination---primary.py
+inputModule24:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-wanted---primary.py
+inputModule25:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-failure---primary.py
+inputModule26:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-declined---primary.py
+inputModule27:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-stopped---primary.py
+inputModule28:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-acquired---primary.py
+inputModule29:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-smoking---primary.py
+inputModule30:
+  class: File
+  path: python/ccu002_01-pregnancy-and-birth-heart---primary.py
+inputModule31:
+  class: File
+  path: python/output-cases.py
